@@ -1,0 +1,31 @@
+h1{
+    color: red;/*esto es un comentario en css*/
+    font-family: arial;
+    background-color: yellow;/*cambia el color de fondo*/
+    text-align: center;
+}
+
+h2{
+    color:rgb(26, 26, 119);
+    font-size: 35px ;
+    text-transform: uppercase ;
+}
+
+p{
+color: green;
+line-height: 28px ;
+
+}
+.destacados {
+    color: aqua;
+    font-weight: bold;
+
+}
+#azul{
+width: 300px;
+height: 300px;
+background-color: blue;
+color: white;
+padding: 10px;
+border: 5px  solid red; 
+}
